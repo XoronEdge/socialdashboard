@@ -3,7 +3,7 @@ import {
   heightPercentageToDP as hp,
   widthPercentageToDP as wp,
 } from 'react-native-responsive-screen';
-import {Alert} from 'react-native';
+//import {Alert} from 'react-native';
 const colors = {
   blue: '#2E5BFF',
   lightblue: 'rgba(46,92,255,0.2)',
@@ -42,14 +42,14 @@ const sizes = {
 
 Typography.loadTypographies({
   h1: {
-    fontFamily: 'Rubik-Light',
+    fontFamily: 'Objectivity-Light',
     fontSize: sizes.h1,
     color: colors.black,
     letterSpacing: -0.6,
     lineHeight: 57,
   },
   h2: {
-    fontFamily: 'Rubik-Light',
+    fontFamily: 'Objectivity-ExtraBold',
     fontSize: sizes.h2,
     color: colors.black,
     letterSpacing: 0,

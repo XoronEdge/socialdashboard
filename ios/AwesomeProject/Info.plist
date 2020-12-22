@@ -38,7 +38,7 @@
 		</dict>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -53,5 +53,56 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Objectivity-Black.otf</string>
+		<string>Objectivity-Black.woff2</string>
+		<string>Objectivity-BlackSlanted.otf</string>
+		<string>Objectivity-BlackSlanted.woff2</string>
+		<string>Objectivity-Bold.otf</string>
+		<string>Objectivity-Bold.woff2</string>
+		<string>Objectivity-BoldSlanted.otf</string>
+		<string>Objectivity-BoldSlanted.woff2</string>
+		<string>Objectivity-ExtraBold.otf</string>
+		<string>Objectivity-ExtraBold.woff2</string>
+		<string>Objectivity-ExtraBoldSlanted.otf</string>
+		<string>Objectivity-ExtraBoldSlanted.woff2</string>
+		<string>Objectivity-Light.otf</string>
+		<string>Objectivity-Light.woff2</string>
+		<string>Objectivity-LightSlanted.otf</string>
+		<string>Objectivity-LightSlanted.woff2</string>
+		<string>Objectivity-Medium.otf</string>
+		<string>Objectivity-Medium.woff2</string>
+		<string>Objectivity-MediumSlanted.otf</string>
+		<string>Objectivity-MediumSlanted.woff2</string>
+		<string>Objectivity-Regular.otf</string>
+		<string>Objectivity-Regular.woff2</string>
+		<string>Objectivity-RegularSlanted.otf</string>
+		<string>Objectivity-RegularSlanted.woff2</string>
+		<string>Objectivity-Super.otf</string>
+		<string>Objectivity-Super.woff2</string>
+		<string>Objectivity-SuperSlanted.otf</string>
+		<string>Objectivity-SuperSlanted.woff2</string>
+		<string>Objectivity-Thin.otf</string>
+		<string>Objectivity-Thin.woff2</string>
+		<string>Objectivity-ThinSlanted.otf</string>
+		<string>Objectivity-ThinSlanted.woff2</string>
+		<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Fontisto.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Zocial.ttf</string>
+	</array>
 </dict>
 </plist>
