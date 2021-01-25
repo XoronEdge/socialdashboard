@@ -1,14 +1,16 @@
 import React from 'react';
-import {View, Text} from 'react-native-ui-lib';
 import './src/Theme';
+
+import {View, Text} from './src/components/base';
+
 export interface Props {
   name: string;
   enthusiasmLevel?: number;
 }
 
-const App: React.FC<Props> = (props) => {
+const App = () => {
   return (
-    <View>
+    <View flex center middle color={'grey'}>
       <Text h1>Hello World</Text>
       <Text h2>Hello World</Text>
     </View>
