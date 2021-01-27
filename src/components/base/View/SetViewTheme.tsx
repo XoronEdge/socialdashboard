@@ -79,14 +79,7 @@ export const styles = StyleSheet.create({
 });
 
 ThemeManager.setComponentTheme('View', {
-  row: styles.row,
-  column: styles.column,
-  center: styles.center,
   middle: styles.middle,
-  left: styles.left,
-  right: styles.right,
-  top: styles.top,
-  bottom: styles.bottom,
   crossLeft: styles.crossLeft,
   crossRight: styles.crossRight,
   crossTop: styles.crossTop,

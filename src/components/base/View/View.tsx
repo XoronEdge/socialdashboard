@@ -3,14 +3,7 @@ import {View as UiView, ViewPropTypes} from 'react-native-ui-lib';
 
 export interface OurViewProps extends ViewPropTypes {
   flexCount?: boolean | number;
-  row?: boolean;
-  column?: boolean;
-  center?: boolean;
   middle?: boolean;
-  left?: boolean;
-  right?: boolean;
-  top?: boolean;
-  bottom?: boolean;
   shadow?: boolean;
   color?: string;
   space?: string;
